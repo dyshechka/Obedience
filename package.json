@@ -17,6 +17,7 @@
   "homepage": "https://github.com/dyshechka/Obedienc#readme",
   "importSort": {
     ".js, .jsx, .ts, .tsx": {
+      "style": "module",
       "parser": "typescript"
     }
   },
@@ -35,7 +36,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
-    "import-sort-cli": "^2.4.0",
+    "import-sort-cli": "^6.0.0",
     "import-sort-style-module": "^6.0.0",
     "prettier": "^2.5.1",
     "prettier-eslint-cli": "^4.7.1",
